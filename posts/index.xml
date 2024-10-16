@@ -14,7 +14,9 @@
       <guid>https://spacepakal.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;date = &amp;lsquo;2024-10-16T13:01:47-04:00&amp;rsquo;
 draft = true
-title = &amp;lsquo;My First Post&amp;rsquo;&lt;/p&gt;</description>
+title = &amp;lsquo;My First Post&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;this-is-the-title-of-my-first-post&#34;&gt;This is the title of my first post&lt;/h1&gt;
+&lt;p&gt;This is test content&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
