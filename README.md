@@ -1,1 +1,0 @@
-# spacepakal.github.io
