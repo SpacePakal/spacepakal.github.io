@@ -2,35 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://spacepakal.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-31T16:25:44-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-31T16:25:44-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/test-6/</loc>
+    <loc>http://localhost:1313/posts/test-6/</loc>
     <lastmod>2024-10-31T16:25:44-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/why/</loc>
+    <loc>http://localhost:1313/posts/why/</loc>
     <lastmod>2024-10-31T15:45:45-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/first-post/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2024-10-31T15:08:18-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/test-3/</loc>
+    <loc>http://localhost:1313/posts/test-3/</loc>
     <lastmod>2024-10-31T15:07:11-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/second-post/</loc>
+    <loc>http://localhost:1313/posts/second-post/</loc>
     <lastmod>2024-10-31T15:05:42-04:00</lastmod>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/last-post/</loc>
+    <loc>http://localhost:1313/posts/from-windows/</loc>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/new-post/</loc>
+    <loc>http://localhost:1313/posts/last-post/</loc>
   </url><url>
-    <loc>https://spacepakal.github.io/posts/new/</loc>
+    <loc>http://localhost:1313/posts/new-post/</loc>
   </url><url>
-    <loc>https://spacepakal.github.io/categories/</loc>
+    <loc>http://localhost:1313/posts/new/</loc>
   </url><url>
-    <loc>https://spacepakal.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,64 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>KanTuun</title>
-    <link>https://spacepakal.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on KanTuun</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2024 16:25:44 -0400</lastBuildDate>
-    <atom:link href="https://spacepakal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 6</title>
-      <link>https://spacepakal.github.io/posts/test-6/</link>
+      <link>http://localhost:1313/posts/test-6/</link>
       <pubDate>Thu, 31 Oct 2024 16:25:44 -0400</pubDate>
-      <guid>https://spacepakal.github.io/posts/test-6/</guid>
+      <guid>http://localhost:1313/posts/test-6/</guid>
       <description>&lt;h2 id=&#34;this-is-yet-another-post&#34;&gt;This is yet another post&lt;/h2&gt;
 &lt;p&gt;Does this work? How does this look like?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why</title>
-      <link>https://spacepakal.github.io/posts/why/</link>
+      <link>http://localhost:1313/posts/why/</link>
       <pubDate>Thu, 31 Oct 2024 15:45:45 -0400</pubDate>
-      <guid>https://spacepakal.github.io/posts/why/</guid>
+      <guid>http://localhost:1313/posts/why/</guid>
       <description></description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://spacepakal.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 31 Oct 2024 15:08:18 -0400</pubDate>
-      <guid>https://spacepakal.github.io/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;h1 id=&#34;this-is-a-replacement-for-what-used-to-be-my-first-post&#34;&gt;This is a replacement for what used to be my first post&lt;/h1&gt;
 &lt;p&gt;bla bla bla&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test 3</title>
-      <link>https://spacepakal.github.io/posts/test-3/</link>
+      <link>http://localhost:1313/posts/test-3/</link>
       <pubDate>Thu, 31 Oct 2024 15:07:11 -0400</pubDate>
-      <guid>https://spacepakal.github.io/posts/test-3/</guid>
+      <guid>http://localhost:1313/posts/test-3/</guid>
       <description>&lt;h1 id=&#34;this-is-a-third-post&#34;&gt;This is a third post&lt;/h1&gt;
 &lt;p&gt;This is not marked as draft&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>https://spacepakal.github.io/posts/second-post/</link>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Thu, 31 Oct 2024 15:05:42 -0400</pubDate>
-      <guid>https://spacepakal.github.io/posts/second-post/</guid>
+      <guid>http://localhost:1313/posts/second-post/</guid>
       <description>&lt;h1 id=&#34;this-will-be-my-second-post---will-this-work&#34;&gt;This will be my second post - will this work?&lt;/h1&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://spacepakal.github.io/posts/last-post/</link>
+      <link>http://localhost:1313/posts/from-windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/last-post/</guid>
+      <guid>http://localhost:1313/posts/from-windows/</guid>
+      <description>&lt;p&gt;date = &amp;lsquo;2024-12-29T19:58:39-05:00&amp;rsquo;
+draft = true
+title = &amp;lsquo;From Windows&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;this-is-a-post-from-windows&#34;&gt;This is a post from windows&lt;/h1&gt;
+&lt;p&gt;I should be able to commit these changes after generating a new set of public files&lt;/p&gt;
+&lt;p&gt;This is more new content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/last-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/last-post/</guid>
       <description>&lt;p&gt;date = &amp;lsquo;2024-10-31T15:44:39-04:00&amp;rsquo;
 draft = true
 title = &amp;lsquo;Last Post&amp;rsquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://spacepakal.github.io/posts/new-post/</link>
+      <link>http://localhost:1313/posts/new-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/new-post/</guid>
+      <guid>http://localhost:1313/posts/new-post/</guid>
       <description>&lt;p&gt;date = &amp;lsquo;2024-10-31T15:42:34-04:00&amp;rsquo;
 draft = False
 title = &amp;lsquo;New Post&amp;rsquo;&lt;/p&gt;
@@ -68,9 +80,9 @@ title = &amp;lsquo;New Post&amp;rsquo;&lt;/p&gt;
     </item>
     <item>
       <title></title>
-      <link>https://spacepakal.github.io/posts/new/</link>
+      <link>http://localhost:1313/posts/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/new/</guid>
+      <guid>http://localhost:1313/posts/new/</guid>
       <description>&lt;p&gt;date = &amp;lsquo;2024-10-31T15:45:16-04:00&amp;rsquo;
 draft = true
 title = &amp;lsquo;New&amp;rsquo;&lt;/p&gt;</description>
