@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test2 on KanTuun</title>
+    <link>https://spacepakal.github.io/categories/test2/</link>
+    <description>Recent content in Test2 on KanTuun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://spacepakal.github.io/categories/test2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Obsidian</title>
+      <link>https://spacepakal.github.io/posts/from-obsidian/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spacepakal.github.io/posts/from-obsidian/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-post-from-obsidian&#34;&gt;This is a post from obsidian&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>New Post From Obsidian</title>
+      <link>https://spacepakal.github.io/posts/this-is-a-new-post/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spacepakal.github.io/posts/this-is-a-new-post/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-first-post-from-obsidian&#34;&gt;This is my first post from Obsidian&lt;/h1&gt;&#xA;&lt;p&gt;This  seems to be working well&lt;/p&gt;&#xA;&lt;p&gt;I still need to figure out how to use static pages and how to add images.  That will be my next step&lt;/p&gt;&#xA;&lt;p&gt;Will this publish well?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://spacepakal.github.io/posts/first-post/</link>
+      <pubDate>Thu, 31 Oct 2024 15:08:18 -0400</pubDate>
+      <guid>https://spacepakal.github.io/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-replacement-for-what-used-to-be-my-first-post&#34;&gt;This is a replacement for what used to be my first post&lt;/h1&gt;&#xA;&lt;p&gt;bla bla bla&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

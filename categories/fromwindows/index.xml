@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FromWindows on KanTuun</title>
+    <link>https://spacepakal.github.io/categories/fromwindows/</link>
+    <description>Recent content in FromWindows on KanTuun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 19:58:39 -0500</lastBuildDate>
+    <atom:link href="https://spacepakal.github.io/categories/fromwindows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Windows</title>
+      <link>https://spacepakal.github.io/posts/from-windows/</link>
+      <pubDate>Sun, 29 Dec 2024 19:58:39 -0500</pubDate>
+      <guid>https://spacepakal.github.io/posts/from-windows/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-post-from-windows&#34;&gt;This is a post from windows&lt;/h1&gt;&#xA;&lt;p&gt;I should be able to commit these changes after generating a new set of public files&lt;/p&gt;&#xA;&lt;p&gt;This is more new content&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

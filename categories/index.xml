@@ -6,6 +6,21 @@
     <description>Recent content in Categories on KanTuun</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 19:58:39 -0500</lastBuildDate>
     <atom:link href="https://spacepakal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FromWindows</title>
+      <link>https://spacepakal.github.io/categories/fromwindows/</link>
+      <pubDate>Sun, 29 Dec 2024 19:58:39 -0500</pubDate>
+      <guid>https://spacepakal.github.io/categories/fromwindows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test2</title>
+      <link>https://spacepakal.github.io/categories/test2/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spacepakal.github.io/categories/test2/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
