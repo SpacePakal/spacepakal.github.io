@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test-Tag on KanTuun</title>
+    <link>https://spacepakal.github.io/tags/test-tag/</link>
+    <description>Recent content in Test-Tag on KanTuun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://spacepakal.github.io/tags/test-tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Alpha</title>
+      <link>https://spacepakal.github.io/posts/202605311113-post_alpha/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://spacepakal.github.io/posts/202605311113-post_alpha/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is post alpha. It links to &lt;a href=&#34;https://spacepakal.github.io/posts/202605311114-post_beta/&#34;&gt;Post Beta&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
