@@ -9,32 +9,11 @@
     <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://spacepakal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post Alpha</title>
-      <link>https://spacepakal.github.io/posts/202605311113-post_alpha/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/202605311113-post_alpha/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is post alpha. It links to &lt;a href=&#34;https://spacepakal.github.io/posts/202605311114-post_beta/&#34;&gt;Post Beta&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post Beta</title>
-      <link>https://spacepakal.github.io/posts/202605311114-post_beta/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/202605311114-post_beta/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is post beta. It links back to &lt;a href=&#34;https://spacepakal.github.io/posts/202605311113-post_alpha/&#34;&gt;Post Alpha&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post Gamma</title>
-      <link>https://spacepakal.github.io/posts/202605311115-post_gamma/</link>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://spacepakal.github.io/posts/202605311115-post_gamma/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is post gamma. It has an image below.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;assets/Pasted_image_20260531111519.png&#34; alt=&#34;Pasted image 20260531111519&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://spacepakal.github.io/about/</link>
-      <pubDate>Sun, 29 Dec 2024 21:15:41 -0500</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <guid>https://spacepakal.github.io/about/</guid>
-      <description>&lt;h2 id=&#34;kantuun&#34;&gt;KanTuun&lt;/h2&gt;&#xA;&lt;p&gt;KanTuun is a way of thinking about knowledge as something built deliberately, stone by stone.&lt;/p&gt;&#xA;&lt;p&gt;The name comes from an idea that has stayed with me: &lt;code&gt;kan&lt;/code&gt; as something elevated, sacred, or oriented toward what is above us, and &lt;code&gt;tuun&lt;/code&gt; as stone. Whether or not that interpretation is perfect in a scholarly sense, it gives me a working metaphor that feels true to the project.&lt;/p&gt;&#xA;&lt;p&gt;Every post begins as a single stone.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is me writing about myself and this blog post while sitting in the kitchen, waiting for my chicken to cook. How long will my chicken take to cook?&lt;/p&gt;&#xA;&lt;p&gt;Under normal circumstances, I’d be watching YouTube videos on my iPad while waiting for my food to be done. Instead, I am doing this: sitting in the kitchen, looking at my chicken from a distance, and writing. I suppose there is something to be said about creating spaces and environments that encourage certain actions and interactions.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
